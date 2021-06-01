@@ -19,10 +19,10 @@ getNerdFont Fantasque \
 	"FantasqueSansMono/Regular/complete/Fantasque%20Sans%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont FiraCode \
-	"FiraCode/Regular/complete/Fira%20Code%20Regular%20Nerd%20Font%20Complete%20Mono.otf"
+	"FiraCode/Regular/complete/Fira%20Code%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont Fira \
-	"FiraMono/Regular/complete/Fira%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.otf"
+	"FiraMono/Regular/complete/Fira%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont Go \
 	"Go-Mono/Regular/complete/Go%20Mono%20Nerd%20Font%20Complete%20Mono.ttf"
@@ -31,10 +31,10 @@ getNerdFont Hack \
 	"Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont Hermit \
-	"Hermit/Medium/complete/Hurmit%20Medium%20Nerd%20Font%20Complete%20Mono.otf"
+	"Hermit/Medium/complete/Hurmit%20Medium%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont Inconsolata \
-	"Inconsolata/complete/Inconsolata%20Nerd%20Font%20Complete%20Mono.otf"
+	"Inconsolata/complete/Inconsolata%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont Iosevka \
 	"Iosevka/Regular/complete/Iosevka%20Nerd%20Font%20Complete%20Mono.ttf"
@@ -52,7 +52,7 @@ getNerdFont Monoid \
 	"Monoid/Regular/complete/Monoid%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont OpenDyslexic \
-	"OpenDyslexic/Regular/complete/OpenDyslexic%20Regular%20Nerd%20Font%20Complete%20Mono.otf"
+	"OpenDyslexic/Regular/complete/OpenDyslexic%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont Roboto \
 	"RobotoMono/Regular/complete/Roboto%20Mono%20Nerd%20Font%20Complete%20Mono.ttf"
