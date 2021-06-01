@@ -2,7 +2,7 @@
 set -e -u
 
 getNerdFont() {
-	commit=5f748cdb104a241ec8ac229f24518f3f867e8eb2
+	commit=bd413aff042da16a6f6c4b27e8aa9f176841149c
 	url="https://github.com/ryanoasis/nerd-fonts/raw/$commit/patched-fonts/${2}"
 	local_file=app/src/main/assets/fonts/$1.ttf
 	echo "Fetching $url ..."
