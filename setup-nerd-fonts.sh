@@ -31,10 +31,10 @@ getNerdFont Hack \
 	"Hack/Regular/complete/Hack%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont Hermit \
-	"Hermit/Medium/complete/Hurmit%20Medium%20Nerd%20Font%20Complete%20Mono.ttf"
+	"Hermit/Medium/complete/Hurmit%20Medium%20Nerd%20Font%20Complete%20Mono.otf"
 
 getNerdFont Inconsolata \
-	"Inconsolata/complete/Inconsolata%20Nerd%20Font%20Complete%20Mono.ttf"
+	"Inconsolata/complete/Inconsolata%20Nerd%20Font%20Complete%20Mono.otf"
 
 getNerdFont Iosevka \
 	"Iosevka/Regular/complete/Iosevka%20Nerd%20Font%20Complete%20Mono.ttf"
@@ -52,7 +52,7 @@ getNerdFont Monoid \
 	"Monoid/Regular/complete/Monoid%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
 
 getNerdFont OpenDyslexic \
-	"OpenDyslexic/Regular/complete/OpenDyslexic%20Regular%20Nerd%20Font%20Complete%20Mono.ttf"
+	"OpenDyslexic/Regular/complete/OpenDyslexic%20Regular%20Nerd%20Font%20Complete%20Mono.otf"
 
 getNerdFont Roboto \
 	"RobotoMono/Regular/complete/Roboto%20Mono%20Nerd%20Font%20Complete%20Mono.ttf"
